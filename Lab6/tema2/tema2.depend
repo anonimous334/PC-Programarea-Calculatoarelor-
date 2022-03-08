@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1478945369 source:/home/razvan/Desktop/labpc/Lab6/tema2/main.c
+	<stdio.h>
+	<stdlib.h>
+
