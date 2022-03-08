@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480960659 source:/home/razvan/Desktop/labpc/Lab9/pb4/main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

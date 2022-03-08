@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1486656226 source:/home/razvan/Desktop/labpc/Lab9/nr_lungi/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
